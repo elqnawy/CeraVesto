@@ -1,0 +1,1 @@
+// Simple password authentication for dashboard
